@@ -5,15 +5,15 @@ es:
   activerecord:
     attributes:
       "sivel2_gen/caso":
-        fecha: F. desplazamiento emblemático
+        fecha: Fecha Desplazamiento Emblemático
         id: Código
         memo: Descripción
       "sivel2_gen/caso_presponsable":
         presponsable: Agente de persecución
       "sivel2_gen/presponsable":
-        presponsable: agente de persecución
+        presponsable: Agente de persecución
       "sivel2_gen/victima":
-        edad: Edad en Desp. Emblemático
+        edad: Edad en Desplazamiento Emblemático
       "sivel2_sjr/acto":
         presponsable: Agente de persecución
       "sivel2_sjr/aslegal":
@@ -26,26 +26,26 @@ es:
         Ayudasjr: Ayuda del SJR
         Ayudassjr: Ayudas del SJR
       "sivel2_sjr/casosjr":
-        comosupo: Como supo del SJR
+        comosupo: Cómo supo del SJR
         contacto: Solicitante principal
         concentimientobd: Consentimiento Informado compartir BD CINEP
         concentimientosjr: Consentimiento Informado compartir SJR
         direccion: Dirección actual
-        fecharec: Fecha de recepción
+        fecharec: Fecha de recepción del caso
         proteccion: Necesidad de protección internacional
         regionsjr: Oficina
         statusmigratorio: Estatus migratorio
-        telefono: Teléfono
-        ultimafechaatencion: Fecha ult. Atención
+        telefono: Teléfono actual
+        ultimafechaatencion: Fecha última atención
         usuario: Asesor SJR
       "sivel2_sjr/comosupo":
-        Comosupo: Como supo del SJR
-        Comosupos: Como supo del SJR
+        Comosupo: Cómo supo del SJR
+        Comosupos: Cómo supo del SJR
       "sivel2_sjr/emprendimiento":
         Emprendimiento: Emprendimiento
         Emprendimientos: Emprendimientos
       "sivel2_sjr/estadocivil":
-        Estadocivil: Estado civil
+        Estadocivil: Estado civil 
         Estadosciviles: Estado civil
       "sivel2_sjr/idioma":
         Idioma: Idioma
